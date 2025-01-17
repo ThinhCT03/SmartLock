@@ -1,0 +1,12 @@
+../Core/Src/main.c:65:5:main	1
+../Core/Src/main.c:112:6:CheckRFID	2
+../Core/Src/main.c:124:6:SysTick_Init	2
+../Core/Src/main.c:145:6:SysTick_Start	1
+../Core/Src/main.c:153:6:SysTick_Handler	1
+../Core/Src/main.c:168:6:ChooseStateMachineUpdate	34
+../Core/Src/main.c:346:6:SystemClock_Config	3
+../Core/Src/main.c:386:13:MX_I2C1_Init	2
+../Core/Src/main.c:420:13:MX_SPI1_Init	2
+../Core/Src/main.c:458:13:MX_GPIO_Init	1
+../Core/Src/main.c:514:6:Keypad_Scan	7
+../Core/Src/main.c:552:6:Error_Handler	1
